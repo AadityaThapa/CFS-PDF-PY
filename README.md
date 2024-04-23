@@ -1,24 +1,40 @@
 # CFS-PDF-PY
-DEMO!!!
-# Random Color Generator
-A simple Random Color Generator written in Python. 🐍
+**A simple Cash Flow Statement generator that generates a PDF file written in Python. 🐍**
+- Provides CFS for various companies using their symbols.
+- Generetes a PDF File with decent styling.
+
+
 
 ## Screenshot
 ![Screenshot](https://github.com/AadityaThapa/CFS-PDF-PY/blob/main/Screenshot.png)
 
+# Symbols
+| Company       | Symbols       | 
+| ------------- |:-------------:| 
+| Apple         | APPL          | 
+| Facebook      | FB            | 
+| Google        | GOOG          |
+| IBM           | IBM           |
 
 ## How to use it?
 
-### Make sure you have tkinter and python installed 💻:
+### Install Fpdf and Requests using pip 💻:
 ```
-sudo dnf install python3 python3-tkinter
-```
-### Clone this repo 📥:
-```
-git clone https://github.com/AadityaThapa/RandomColorGenerator.git
+pip install fpdf requests
 ```
 
-### Then execute the program using python 🐍:
+### Clone this repo 📥:
+```
+git clone https://github.com/AadityaThapa/CFS-PDF-PY.git
+```
+### Get the API key 🗝️:
+*WARNING: Don't let others view your api key ⚠️*
+
+Sign up into [Financial Modeling Prep](https://site.financialmodelingprep.com/)
+
+Create a `api_key.txt` file and paste the api key into that file.
+
+### Execute the program using python 🐍:
 ```
 python3 main.py
 ```
