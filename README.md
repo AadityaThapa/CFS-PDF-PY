@@ -9,7 +9,7 @@
 ## Screenshot
 ![Screenshot](https://github.com/AadityaThapa/CFS-PDF-PY/blob/main/Screenshot.png)
 
-# Symbols
+## Symbols
 | Company       | Symbols       | 
 | ------------- |:-------------:| 
 | Apple         | APPL          | 
