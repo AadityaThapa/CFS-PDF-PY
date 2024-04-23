@@ -1,4 +1,4 @@
-# CFS-PDF-PY
+# CFS PDF PY
 **A simple Cash Flow Statement generator that generates a PDF file. 🗃️**
 - Provides CFS for various companies using their symbols.
 - Generetes a PDF File with decent styling.
