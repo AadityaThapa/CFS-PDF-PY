@@ -4,7 +4,7 @@ DEMO!!!
 A simple Random Color Generator written in Python. 🐍
 
 ## Screenshot
-![Screenshot](https://github.com/AadityaThapa/RandomColorGenerator/blob/main/Screenshot.png)
+![Screenshot](https://github.com/AadityaThapa/CFS-PDF-PY/blob/main/Screenshot.png)
 
 
 ## How to use it?
