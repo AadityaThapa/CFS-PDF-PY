@@ -36,5 +36,5 @@ Create a `api_key.txt` file and paste the api key into that file.
 
 ### Execute the program using python 🐍:
 ```
-python3 main.py
+python main.py
 ```
